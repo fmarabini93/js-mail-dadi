@@ -5,6 +5,7 @@ body {
     justify-content: space-around;
     align-items: center;
     padding: 5%;
+    font-family: 'Original Surfer', cursive;
     color: rebeccapurple;
     background-image: linear-gradient(to top right, green, lightgreen);
 }
