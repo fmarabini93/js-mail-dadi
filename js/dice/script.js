@@ -6,5 +6,5 @@ if (pcLaunch > userLaunch) {
 } else if (pcLaunch < userLaunch) {
     document.getElementById("result").innerHTML = "Congrats! You won "+userLaunch+" to "+pcLaunch;
 } else {
-    document.getElementById("result").innerHTML = "Draw! Please refresh the page"
+    document.getElementById("result").innerHTML = "Draw!"
 }
