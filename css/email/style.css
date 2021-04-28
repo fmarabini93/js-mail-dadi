@@ -4,6 +4,20 @@ body {
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
+    padding: 5%;
     color: rebeccapurple;
     background-image: linear-gradient(to top right, green, lightgreen);
+}
+
+ul {
+    list-style: none;
+}
+ul li {
+    display: inline-block;
+    margin: 0 20px;
+    font-weight: bold;
+}
+ul li a {
+    text-decoration: none;
+    color: orangered;
 }
